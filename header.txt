@@ -1,5 +1,0 @@
-#UTF-8
-#Code from the repository "https://github.com/mignoe/coding-challenges"
-#Author: Miguel de Oliveira Rodrigues (username: mignoe)
-#email: miguel.rodrigues@ccc.ufcg.edu.br
-
